@@ -74,6 +74,12 @@ Include the path to 'meta-raspberrypi' in the 'bblayer.conf' file.
 bitbake core-image-minimal -k
 ```
 
-![bblayers](https://github.com/alaagbr321/Embedded-Linux/assets/145403129/0a200d10-c02c-4c64-b0ad-a4959b2a55d6)
+
+![alt text](<Screenshot from 2024-05-04 14-14-39.png>)
+
+
+
+
+![bblayers](
 
 Feel free to reach out for any assistance during the process.
